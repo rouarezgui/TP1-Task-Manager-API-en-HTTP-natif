@@ -1,0 +1,15 @@
+{
+  "name": "task-manager-native",
+  "version": "1.0.0",
+  "description": "Task Manager API with native HTTP",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
